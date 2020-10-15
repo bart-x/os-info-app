@@ -1,0 +1,11 @@
+{
+  "name": "os-app",
+  "version": "1.0.0",
+  "description": "os app",
+  "main": "index.js",
+  "author": "Bartek",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "5.0.6"
+  }
+}
